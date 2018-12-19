@@ -1,0 +1,11 @@
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\bin\Debug\netcoreapp2.1\CompressaoArquivos.deps.json
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\bin\Debug\netcoreapp2.1\CompressaoArquivos.runtimeconfig.json
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\bin\Debug\netcoreapp2.1\CompressaoArquivos.runtimeconfig.dev.json
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\bin\Debug\netcoreapp2.1\CompressaoArquivos.dll
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\bin\Debug\netcoreapp2.1\CompressaoArquivos.pdb
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\obj\Debug\netcoreapp2.1\CompressaoArquivos.csprojAssemblyReference.cache
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\obj\Debug\netcoreapp2.1\CompressaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\obj\Debug\netcoreapp2.1\CompressaoArquivos.AssemblyInfoInputs.cache
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\obj\Debug\netcoreapp2.1\CompressaoArquivos.AssemblyInfo.cs
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\obj\Debug\netcoreapp2.1\CompressaoArquivos.dll
+C:\Users\47326175810\Desktop\CompressaoDeArquivos\obj\Debug\netcoreapp2.1\CompressaoArquivos.pdb
